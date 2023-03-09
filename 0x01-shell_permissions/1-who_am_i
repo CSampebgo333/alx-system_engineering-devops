@@ -1,2 +1,2 @@
 #!/bin/bash
-id. -u
+git config --global user.name
